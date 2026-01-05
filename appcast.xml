@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>DockDoorPro</title>
+        <item>
+            <title>0.1</title>
+            <pubDate>Mon, 05 Jan 2026 10:13:22 -0800</pubDate>
+            <sparkle:releaseNotesLink>https://pro.dockdoor.net/CHANGELOG.html</sparkle:releaseNotesLink>
+            <sparkle:version>0.1</sparkle:version>
+            <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/ejbills/DockDoorUltra/releases/download/0.1/DockDoorPro.dmg" length="1278200" type="application/octet-stream" sparkle:edSignature="oQUMEpGvzNSNMBI0APd9sRMpfNVS2UrKzlDr3apc8bPu4ObDqWHg8MnilLL1rJ7VEdC11zW8p/eyckjUSf9YAQ=="/>
+        </item>
+    </channel>
+</rss>
