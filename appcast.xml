@@ -3,13 +3,13 @@
     <channel>
         <title>DockDoorPro</title>
         <item>
-            <title>0.0.3</title>
-            <pubDate>Fri, 23 Jan 2026 12:04:19 -0800</pubDate>
+            <title>0.0.4</title>
+            <pubDate>Fri, 23 Jan 2026 12:55:07 -0800</pubDate>
             <sparkle:releaseNotesLink>https://pro.dockdoor.net/CHANGELOG.html</sparkle:releaseNotesLink>
-            <sparkle:version>0.0.3</sparkle:version>
-            <sparkle:shortVersionString>0.0.3</sparkle:shortVersionString>
+            <sparkle:version>0.0.4</sparkle:version>
+            <sparkle:shortVersionString>0.0.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/ejbills/DockDoorPro_Releases/releases/download/0.0.3/DockDoorPro.dmg" length="2371599" type="application/octet-stream" sparkle:edSignature="S+HXV09R8DibMDFuCKOlHvY3cwkVfoOrmF964WR0yQc/vJjYnHyQYDKe1L7DqxQPyhPuvxq+l15Pe/zEGXXXBw==" />
+            <enclosure url="https://github.com/ejbills/DockDoorPro_Releases/releases/download/0.0.4/DockDoorPro.dmg" length="2367931" type="application/octet-stream" sparkle:edSignature="cVOPGl9ExVyEHvJgeoFGDyH/Dx54icO7miux6AhbYhXnurqpSBG1cM1CMkEbqkBkB88IO2MOQoALvz6lzek0AQ==" />
         </item>
     </channel>
 </rss>
